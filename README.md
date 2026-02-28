@@ -32,3 +32,6 @@ Data Persistence: Integrate file handling to save records in a .json or .csv fil
 Search Functionality: Add a feature to look up a specific student's grade without listing everyone.
 
 Average Calculator: Automatically calculate the class average from the stored grades.
+
+## Author
+Rutuja Wagh
