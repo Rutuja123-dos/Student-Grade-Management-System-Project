@@ -20,8 +20,8 @@ Input Handling: Implemented type casting to ensure grades are handled as integer
 ## 📋 Usage
 Run the script:
 
-Bash
 python student_grades.py
+
 Choose an option from the menu (1-5).
 
 Follow the prompts to manage your student database.
